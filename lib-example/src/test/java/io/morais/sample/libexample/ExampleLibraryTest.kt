@@ -1,4 +1,4 @@
-package io.bitrise.sample.libexample
+package io.morais.sample.libexample
 
 import org.junit.Assert.assertFalse
 import org.junit.Assert.assertTrue

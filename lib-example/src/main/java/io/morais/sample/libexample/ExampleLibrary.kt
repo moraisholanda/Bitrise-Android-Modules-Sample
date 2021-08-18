@@ -1,4 +1,4 @@
-package io.bitrise.sample.libexample
+package io.morais.sample.libexample
 
 class ExampleLibrary {
 

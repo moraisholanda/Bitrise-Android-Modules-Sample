@@ -1,4 +1,4 @@
-package io.bitrise.sample.example1
+package io.morais.sample.example1
 
 import org.junit.Test
 
