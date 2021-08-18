@@ -33,7 +33,7 @@ android {
 
 dependencies {
     implementation project(":lib-example")
-    implementation project(":feature:example1")
+   // implementation project(":feature:example1")
     implementation project(":feature:example2")
 
     implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
