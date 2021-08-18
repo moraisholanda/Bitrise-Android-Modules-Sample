@@ -1,4 +1,4 @@
-package io.bitrise.sample.android.instrumentation
+package io.morais.sample.android.instrumentation
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

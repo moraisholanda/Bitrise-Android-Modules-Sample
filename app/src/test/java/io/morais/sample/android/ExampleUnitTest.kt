@@ -1,4 +1,4 @@
-package io.bitrise.sample.android
+package io.morais.sample.android
 
 import org.junit.Test
 

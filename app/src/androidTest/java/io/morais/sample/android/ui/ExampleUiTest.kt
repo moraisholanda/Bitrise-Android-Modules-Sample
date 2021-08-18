@@ -1,4 +1,4 @@
-package io.bitrise.sample.android.ui
+package io.morais.sample.android.ui
 
 import androidx.test.espresso.Espresso.onView
 import androidx.test.espresso.assertion.ViewAssertions.matches
@@ -7,7 +7,7 @@ import androidx.test.espresso.matcher.ViewMatchers.withText
 import androidx.test.ext.junit.rules.ActivityScenarioRule
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import androidx.test.filters.LargeTest
-import io.bitrise.sample.android.MainActivity
+import io.morais.sample.android.MainActivity
 import org.junit.Rule
 import org.junit.Test
 import org.junit.runner.RunWith
