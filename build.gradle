@@ -21,8 +21,7 @@ subprojects {
         println "version $rootProject.ext.core_version"
 
    }
-    afterEvaluate {subproject ->
-
+    beforeEvaluate {subproject ->
         println "version $rootProject.ext.core_version"
 
     }
