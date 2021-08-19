@@ -2,6 +2,14 @@
 buildscript {
     ext.kotlin_version = "1.5.0"
     ext.core_version = "1.3.2"
+    ext{
+        println "version $rootProject.ext.core_version"
+        println "version $rootProject.ext.core_version"
+    }
+
+
+
+
     repositories {
         google()
         mavenCentral()
@@ -17,14 +25,7 @@ buildscript {
 }
 
 subprojects {
-    ext{
-        println "version $rootProject.ext.core_version"
 
-   }
-    beforeEvaluate {subproject ->
-        println "version $rootProject.ext.core_version"
-
-    }
 }
 
 allprojects {
